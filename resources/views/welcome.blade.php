@@ -89,15 +89,14 @@
 
                       </h2>
                       <h1>
-                        web agency
+                        Eventnes
                       </h1>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore
+                        Болж байгаа үйл ажиллагааны талаархи дэлгэрэнгүй мэдээллийг цаг алдалгүй аваарай
                       </p>
                       <div class="">
-                        <a href="">
-                          Contact us
+                        <a href="/login">
+                          Login
                         </a>
                       </div>
                     </div>
