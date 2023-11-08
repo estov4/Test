@@ -59,6 +59,9 @@
                 <li class="nav-item">
                   <a class="nav-link" href="/contact">Contact us</a>
                 </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="/posts/create">Create</a>
+                </li>
               </ul>
               <div class="user_option">
                 <a href="">
